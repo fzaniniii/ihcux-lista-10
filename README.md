@@ -93,3 +93,7 @@ Os arquivos do protótipo estão disponíveis na pasta `/prototipo`:
 
 - `prototipo.png`
 - `prototipo.pdf`
+
+## 📸 Visual do Protótipo
+
+![Protótipo FilaZero](./prototipo/prototipo.png)
