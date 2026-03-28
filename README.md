@@ -1,7 +1,7 @@
 # 📱 FilaZero - Protótipo de Baixa Fidelidade
 
 ## 👤 Aluno
-Fábio Zanini
+Fábio Henrique Zanini Ferreira
 
 ---
 
