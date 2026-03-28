@@ -15,7 +15,7 @@ O foco do projeto é melhorar a experiência do usuário, reduzindo tempo de esp
 
 ## 🧩 Telas Criadas
 
-Com base no protótipo desenvolvido :contentReference[oaicite:0]{index=0}, foram criadas as seguintes telas:
+Com base no protótipo desenvolvido, foram criadas as seguintes telas:
 
 1. **Login**  
 Tela de entrada do usuário no sistema.
