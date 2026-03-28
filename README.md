@@ -91,9 +91,9 @@ Durante a prototipagem foram aplicados conceitos importantes de UX:
 
 Os arquivos do protótipo estão disponíveis na pasta `/prototipo`:
 
-- `prototipo.png`
+- `prototipo.jpg`
 - `prototipo.pdf`
 
 ## 📸 Visual do Protótipo
 
-![Protótipo FilaZero](./prototipo/prototipo.png)
+![Protótipo FilaZero](./prototipo/prototipo.jpg)
